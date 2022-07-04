@@ -25,7 +25,7 @@ function remove_repeated_words($text)
 
 
 echo "<pre>";
-echo remove_repeated_words("hello hello world world test");
+echo remove_repeated_words("hello hello world world test world");
 
 
 
