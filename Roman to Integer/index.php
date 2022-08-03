@@ -36,4 +36,4 @@ function romanToInt($s)
 
 
 
-romanToInt("MCMXCIV");
+echo romanToInt("MMMCMXCIX");
