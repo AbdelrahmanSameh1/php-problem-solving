@@ -19,4 +19,4 @@ function isPalindrome($n)
 
 
 
-echo isPalindrome(12321);
+echo isPalindrome(-121);
